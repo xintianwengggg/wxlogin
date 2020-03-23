@@ -1,0 +1,4 @@
+<open-data type="userAvatarUrl"></open-data>
+<open-data type="userNickName"></open-data>
+<!-- 需要使用 button 来授权登录 -->
+<button  open-type="getUserInfo" bindgetuserinfo="wxlogin">授权登录</button>
